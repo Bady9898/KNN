@@ -1,6 +1,6 @@
 # KNN
 
-#1. Prepare a model for glass classification using KNN
+# 1. Prepare a model for glass classification using KNN
 
 Data Description:
 
@@ -32,7 +32,7 @@ Type: Type of glass: (class attribute)
  7 --headlamps
 
 
-#2. Prepare a model for glass classification using KNN
+# 2. Prepare a model for glass classification using KNN
 
 Data Description:
 
